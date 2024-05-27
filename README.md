@@ -1,1 +1,3 @@
 # Poll-Maker-Website
+
+This project aims to create a simple poll maker website using Xammp server that provieds user to create type of question (Multiple-Choice) for voting. The main functionalities include website design, registration and login, user profile management, and participation. The website uses basic HTML/CSS/Media Query and is attractive and unified. Users can register themselves using a unique email and password, and AJAX can verify email and password. Users can browse open and ended polls, with pubic guests only able to browse all polls and vote. Users can create new polls with titles, questions, and options, and end polls by clicking the STOP button or scheduling a end date.
